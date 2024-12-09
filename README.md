@@ -1,6 +1,6 @@
 IMDb Database Analysis -
 RSVP Movies Project
-Overview:
+Problem Statement:
 This project aims to assist RSVP Movies, an Indian film production company, in analyzing historical data to make strategic decisions for their upcoming international movie release in 2022. The analysis focuses on using data from the IMDb database, providing actionable insights based on movie release trends, ratings, genre performance, and audience preferences.
 
 Purpose:
